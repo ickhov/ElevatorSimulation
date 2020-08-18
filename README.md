@@ -4,6 +4,7 @@
 This program simulates the operation of an elevator from the point of view of the first floor. When the elevator arrives at the first floor, it will pick up the passengers who are waiting, up to its capacity, and leave immediately. Those unable to board will have to wait. If no one is waiting when the elevator arrives, the elevator will wait until a passenger arrives; he/she will board and the elevator will leave immediately.
 
 ## Running the program
+In order to run the program, you need to install the SimPy library for Python. You can find the installation guide [here](https://pypi.org/project/simpy/).<br /><br />
 You can run the program using the following format.
 
 ```python
